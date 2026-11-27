@@ -11,6 +11,10 @@
 
 旧版 Windows 便携 ZIP 可在[片边 v1.0.2 发布页](https://github.com/evanlee666/film-rebate/releases/tag/v1.0.2)下载。
 
+## 软件演示
+
+https://github.com/user-attachments/assets/b3161851-a0bc-46b3-9d60-da6c2afff89f
+
 ## 主要功能
 
 | 功能 | 可以做什么 |
