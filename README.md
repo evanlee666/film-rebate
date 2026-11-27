@@ -6,8 +6,14 @@
 
 适用于使用 Intel 或 AMD 64 位处理器的 Windows 电脑。
 
-- [下载 Windows X64 安装包（v2.0.1）](https://github.com/evanlee666/PakePlus/releases/download/eddadeefebe/eddadeefebe_2.0.1_x64-setup.exe)
+- [GitHub 直链 · Windows X64 安装包（v2.0.1）](https://github.com/evanlee666/PakePlus/releases/download/eddadeefebe/eddadeefebe_2.0.1_x64-setup.exe)
+- [百度网盘备用下载 · Windows X64 安装包（v2.0.1）](https://pan.baidu.com/s/1zrxmhs1h4omqWBDPqktCDw?pwd=578s)，提取码 `578s`
 - [查看 v2.0.1 发布页和其他平台安装包](https://github.com/evanlee666/PakePlus/releases/tag/eddadeefebe)
+
+
+两个入口提供同一份安装包。如果 GitHub 下载较慢或中途断开，可改用百度网盘。校验值（SHA-256）
+
+`3b11c9687872619a83d5423ca0b465fcf12c9b1cc009cf5b8d85b632671e8609`
 
 旧版 Windows 便携 ZIP 可在[片边 v1.0.2 发布页](https://github.com/evanlee666/film-rebate/releases/tag/v1.0.2)下载。
 
